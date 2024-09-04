@@ -1,8 +1,2 @@
 db
-docker.getcollate.io/openmetadata/db:1.4.3
-elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-server
-docker.getcollate.io/openmetadata/server:1.4.3
-ingestion
-docker.getcollate.io/openmetadata/ingestion:1.4.3
+docker.getcollate.io/openmetadata/db:1.5.2
