@@ -1,2 +1,2 @@
 db
-docker.getcollate.io/openmetadata/db:1.5.2
+db:1.5.2
