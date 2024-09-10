@@ -1,2 +1,2 @@
 db
-mysql:1.2.2
+openmetadata_elasticsearch:1.2.2
