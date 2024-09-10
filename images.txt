@@ -1,1 +1,1 @@
-db:1.4.3
+openmetadata_mysql
